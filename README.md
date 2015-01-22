@@ -1,4 +1,5 @@
-# gformify
+gformify
+======
 
 WordPress Plugin that adds Bootstrap 3 styling and syntax to Gravity Forms Plugin
 
