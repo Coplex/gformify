@@ -5,9 +5,9 @@ WordPress Plugin that adds Bootstrap 3 styling and syntax to Gravity Forms Plugi
 
 ###What this plugin does:
 
-*Loads Bootstrap 3.3.1 basic styles
-*Loads Gravity Form specific bootstrap styles
-*Adds proper Bootstrap classes to relevant Gravity Form DOM elements
+* Loads Bootstrap 3.3.1 basic styles
+* Loads Gravity Form specific bootstrap styles
+* Adds proper Bootstrap classes to relevant Gravity Form DOM elements
 
 ###How to use
 Upload the plugin to WordPress.  Disable css output in gravity forms settings/
